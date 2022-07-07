@@ -1,0 +1,65 @@
+Body {
+Font-family: Tahoma;
+Width: 950px;
+Margin-left: auto;
+Margin-right: auto;
+}
+
+#logo {
+Text-align:center
+}
+
+#page{
+Text-align: center;
+Height: 10%;
+Width: 100%;
+Background-color:pink;
+Color:white;
+}
+
+#appt{
+Text-align: center;
+Height: 5%;
+Width: 100%;
+Background-color:pink;
+Color:white;
+}
+
+#chance{
+Text-align:left;
+Color:pink;
+}
+
+#First{
+Color:pink;
+Text-align:center;
+}
+
+
+#squad{
+Background:silver;
+Height 60%;
+Width: 100%;
+}
+
+
+Footer {
+Text-align: right;
+Background: pink;
+Height: 7%;
+Width: 100%;
+Color:grey;
+}
+
+#comment-box, #post {
+    border: none;
+    border-radius: 10px;
+}
+
+#post:hover{
+    background-color:pink;
+}
+
+#text {
+Text-align:center;
+}

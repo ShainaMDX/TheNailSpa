@@ -1,0 +1,52 @@
+Body {
+Font-family: Tahoma;
+Width: 950px;
+Margin-left: auto;
+Margin-right: auto;
+}
+
+#logo {
+Text-align:center
+}
+
+.box img{
+Width:100%;
+Height: 600;
+Box-shadow: 0 0 25px -3px Rgba(0,0,0,0.4);
+}
+
+.box img{
+Width: 100%;
+Height: 100:
+}
+
+
+#page{
+Text-align: center;
+Height: 10%;
+Width: 100%;
+Background-color: pink;
+Color:white;
+}
+
+#adress {
+Text-align: center;
+}
+
+Footer {
+Text-align: right;
+Background: pink;
+Height: 7%;
+Width: 100%;
+Color:grey;
+}
+
+#squad{
+Background:silver;
+Height 60%;
+Width: 100%;
+}
+
+#first{
+Color: pink;
+}
